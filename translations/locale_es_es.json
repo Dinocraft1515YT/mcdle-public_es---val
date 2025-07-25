@@ -68,8 +68,8 @@
 	"header": {
 		"settings": {
 			"headers": {
-				"mcdle": "🌍Mcdle",
-				"crafting_bee": "🌍Crafting Bee"
+				"mcdle": "Mcdle",
+				"crafting_bee": "Crafting Bee"
 			},
 			"colorblind": {
 				"input_name": "Modo daltonismo",
@@ -105,59 +105,59 @@
 				"title": "Dificultad"
 			},
 			"keybinds": {
-				"title": "🌍Key bindings",
+				"title": "Teclas",
 				"binds": {
 					"crafting.selectHex.1": {
-						"name": "🌍Select Hexagon 1",
-						"description": "🌍Select Hex Tile #1"
+						"name": "Seleccionar hexágono 1",
+						"description": "Seleccionar celda 1 del hexágono"
 					},
 					"crafting.selectHex.2": {
-						"name": "🌍Select Hexagon 2",
-						"description": "🌍Select Hex Tile #2"
+						"name": "Seleccionar hexágono 2",
+						"description": "Seleccionar celda 2 del hexágono"
 					},
 					"crafting.selectHex.3": {
-						"name": "🌍Select Hexagon 3",
-						"description": "🌍Select Hex Tile #3"
+						"name": "Seleccionar hexágono 3",
+						"description": "Seleccionar celda 3 del hexágono"
 					},
 					"crafting.selectHex.4": {
-						"name": "🌍Select Hexagon 4",
-						"description": "🌍Select Hex Tile #4"
+						"name": "Seleccionar hexágono 4",
+						"description": "Seleccionar celda 4 del hexágono"
 					},
 					"crafting.selectHex.5": {
-						"name": "🌍Select Hexagon 5",
-						"description": "🌍Select Hex Tile #5"
+						"name": "Seleccionar hexágono 5",
+						"description": "Seleccionar celda 5 del hexágono"
 					},
 					"crafting.selectHex.6": {
-						"name": "🌍Select Hexagon 6",
-						"description": "🌍Select Hex Tile #6"
+						"name": "Seleccionar hexágono 6",
+						"description": "Seleccionar celda 6 del hexágono"
 					},
 					"crafting.selectHex.7": {
-						"name": "🌍Select Hexagon 7",
-						"description": "🌍Select Hex Tile #7"
+						"name": "Seleccionar hexágono 7",
+						"description": "Seleccionar celda 7 del hexágono"
 					},
 					"crafting.grid.nav.up": {
-						"name": "🌍Navigate Crafting Grid Up",
-						"description": "🌍Move the cursor up in the crafting grid"
+						"name": "Moverse arriba en la tabla de crafteo",
+						"description": "Mover el cursor arriba en la tabla de crafteo"
 					},
 					"crafting.grid.nav.down": {
-						"name": "🌍Navigate Crafting Grid Down",
-						"description": "🌍Move the cursor down in the crafting grid"
+						"name": "Moverse abajo en la tabla de crafteo",
+						"description": "Mover el cursor abajo en la tabla de crafteo"
 					},
 					"crafting.grid.nav.left": {
-						"name": "🌍Navigate Crafting Grid Left",
-						"description": "🌍Move the cursor left in the crafting grid"
+						"name": "Moverse a la izquierda en la tabla de crafteo",
+						"description": "Mover el cursor a la izquierda en la tabla de crafteo"
 					},
 					"crafting.grid.nav.right": {
-						"name": "🌍Navigate Crafting Grid Right",
-						"description": "🌍Move the cursor right in the crafting grid"
+						"name": "Moverse a la derecha en la tabla de crafteo",
+						"description": "Mover el cursor a la derecha en la tabla de crafteo"
 					},
 					"crafting.grid.placeItem": {
-						"name": "🌍Place Item in Grid",
-						"description": "🌍Place the selected item in the crafting grid"
+						"name": "Poner objeto en la celda",
+						"description": "Poner objeto en la celda seleccionada de la tabla de crafteo"
 					},
 					"crafting.grid.craftItem": {
-						"name": "🌍Craft Item",
-						"description": "🌍Craft the item in the crafting grid"
+						"name": "Craftear objeto",
+						"description": "Craftear el objeto en la tabla de crafteo"
 					},
 					"crafting.grid.deleteItem": {
 						"name": "🌍Delete Item in Grid",
