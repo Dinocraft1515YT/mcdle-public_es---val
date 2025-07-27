@@ -160,20 +160,20 @@
 						"description": "Craftear el objeto en la tabla de crafteo"
 					},
 					"crafting.grid.deleteItem": {
-						"name": "🌍Delete Item in Grid",
-						"description": "🌍Delete the item in the crafting grid"
+						"name": "Quitar objeto de la tabla",
+						"description": "Quitar el objeto de la tabla de crafteo"
 					},
 					"crafting.grid.clear": {
-						"name": "🌍Clear Crafting Grid",
-						"description": "🌍Clear the crafting grid"
+						"name": "Vaciar la tabla de crafteo",
+						"description": "Vaciar la tabla de crafteo"
 					},
 					"crafting.grid.clearImmediate": {
-						"name": "🌍Clear Grid Immediately",
-						"description": "🌍Clear the crafting grid immediately without confirmation"
+						"name": "Vaciar de inmediato la tabla",
+						"description": "Vaciar de inmediato la tabla de crafteo sin confirmación"
 					},
 					"crafting.randomize": {
-						"name": "🌍Play Random Game",
-						"description": "🌍Pick 7 random items to play with"
+						"name": "Jugar el modo ilimitado",
+						"description": "Aleatorizar los 7 objetos con los que jugar"
 					}
 				}
 			},
@@ -218,9 +218,9 @@
 					"title": "Criaturas"
 				},
 				"crafting": {
-					"image_alt": "🌍Crafting Bee icon",
-					"subtitle": "🌍Do you know your recipes?",
-					"title": "🌍Crafting Bee"
+					"image_alt": "Ícono de Crafting Bee",
+					"subtitle": "¿Sabes las recetas?",
+					"title": "Crafting Bee"
 				},
 				"goal": {
 					"title": "MCdle Bestiario",
@@ -668,33 +668,33 @@
 			}
 		},
 		"crafting": {
-			"title": "🌍Gamemode: Crafting Bee",
+			"title": "Modo de juego: Crafting Bee",
 			"sub_title_menus": {
 				"stats": {
-					"title": "🌍Stats",
-					"tooltip": "🌍Stats"
+					"title": "Estadísticas",
+					"tooltip": "Estadísticas"
 				},
 				"streak": {
-					"title": "🌍Transfer progress",
-					"tooltip": "🌍Win Streak"
+					"title": "Trasferir progreso",
+					"tooltip": "Racha de victorias"
 				},
 				"help": {
-					"tooltip": "🌍How to play"
+					"tooltip": "¿Cómo jugar?"
 				},
 				"bestiary": {
-					"tooltip": "🌍Bestiary"
+					"tooltip": "Bestiario"
 				},
 				"editor": {
-					"tooltip": "🌍Editor"
+					"tooltip": "Editor"
 				}
 			},
 			"regular": {
 				"notifications": {
-					"already_crafted": "🌍Item already crafted!",
+					"already_crafted": "Objeto ya crafteado!",
 					"other_game_running": {
-						"description": "🌍You have another game saved but are trying to play a new one via a custom link",
-						"prev_game": "🌍Your saved game:",
-						"prev_game_discovered": "🌍{{discoveredCount}}/{{availableRecipes}} discovered already.",
+						"description": "Tienes otra partida guardada, pero estrás tratando de jugar otra por link customizado",
+						"prev_game": "Tu juego guardado:",
+						"prev_game_discovered": "{{discoveredCount}}/{{availableRecipes}} descubiertos.",
 						"overwrite": "🌍Overwrite",
 						"return": "🌍Return to saved game"
 					}
